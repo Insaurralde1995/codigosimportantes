@@ -1,0 +1,8 @@
+<?php
+
+echo "primer tutorial";
+
+
+
+
+?>
